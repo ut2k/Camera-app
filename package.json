@@ -8,6 +8,7 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "mem": ">=4.0.0",
     "expo": "~36.0.0",
     "react": "~16.9.0",
     "react-dom": "~16.9.0",
@@ -15,6 +16,7 @@
     "react-native-web": "~0.11.7"
   },
   "devDependencies": {
+    "mem": ">=4.0.0",
     "babel-preset-expo": "~8.0.0",
     "@babel/core": "^7.0.0"
   },
